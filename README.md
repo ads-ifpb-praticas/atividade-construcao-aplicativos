@@ -1,6 +1,6 @@
 # Atividade prática - Construção de Aplicativos
 
-A atividade para o módulo de Construção de Aplicativos consiste em 2 etapas:
+A atividade para o módulo de Construção de Aplicativos deve ser entregue até o dia 17/07/2017 consiste em 2 etapas:
 
 ## 1ª etapa - Criar um archetype Maven
 
