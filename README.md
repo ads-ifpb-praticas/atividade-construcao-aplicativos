@@ -2,7 +2,7 @@
 
 A atividade para o módulo de Construção de Aplicativos consiste em 2 etapas:
 
-## 1ª etapa - Criar um achetype Maven
+## 1ª etapa - Criar um archetype Maven
 
 Este archetype deve conter as seguintes dependências declaradas ao ser utilizado:
 
