@@ -1,4 +1,4 @@
-# Atividade prática Construção de Aplicativos
+# Atividade prática - Construção de Aplicativos
 
 A atividade para o módulo de Construção de Aplicativos consiste em 2 etapas:
 
